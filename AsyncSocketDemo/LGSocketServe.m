@@ -12,6 +12,9 @@
 #define HOST @"192.168.0.1"
 #define PORT 8080
 
+//#define HOST @"120.26.63.129"
+//#define PORT 8000
+
 //设置连接超时
 #define TIME_OUT 20
 

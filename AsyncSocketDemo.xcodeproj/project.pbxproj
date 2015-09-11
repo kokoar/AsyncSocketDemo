@@ -432,6 +432,7 @@
 				CE44E22F1ACE7050007475F1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE44E2301ACE7050007475F1 /* Build configuration list for PBXNativeTarget "AsyncSocketDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -440,6 +441,7 @@
 				CE44E2321ACE7050007475F1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
